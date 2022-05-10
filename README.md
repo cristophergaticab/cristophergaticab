@@ -9,15 +9,10 @@
 
 <h4 align="left">Contactame</h4>
 <a href="https://mail.google.com/mail/cristopher.gaticab" target="blank"><img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="cristophergatica" /></a>
-<a href="https://wa.me/56948938347" target="blank"><img align="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://t.me/RodrigoCE3JRM" target="blank"><img align="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="josereyesmontero" /></a>
-
 
 <h4 align="left">Redes Sociales</h4>
-<a href="https://linkedin.com/in/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://www.instagram.com/alefullstackjs/" target="blank"><img align="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://twitter.com/JosAlessandroR3" target="blank"><img align="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="josereyesmontero" /></a>
-<a href="https://github.com/josereyesmontero" target="blank"><img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="josereyesmontero" /></a> 
+<a href="https://linkedin.com/in/cristophergatica" target="blank"><img align="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cristophergatica" /></a>
+<a href="https://github.com/cristophergaticab" target="blank"><img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cristophergatica" /></a> 
 
 
 <h4 align="left">Lenguajes</h4>
@@ -35,7 +30,7 @@
 <a href="https://git-scm.com/" target="blank"><img align="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="josereyesmontero" /></a>
 <a href="" target="blank"><img align="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="josereyesmontero" /></a>
 
-<h4 align="left">Framewors</h4>
+<h4 align="left">Frameworks</h4>
 <a href="https://getbootstrap.com/" target="blank"><img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://www.docker.com/" target="blank"><img align="" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="josereyesmontero" /></a>
 <a href="https://expressjs.com/es/" target="blank"><img align="" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="josereyesmontero" /></a>
